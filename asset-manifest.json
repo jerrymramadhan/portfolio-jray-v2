@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-jray-v2/static/css/main.d2bc9c49.css",
+    "main.css": "/portfolio-jray-v2/static/css/main.6b92a361.css",
     "main.js": "/portfolio-jray-v2/static/js/main.ec2ceaf3.js",
     "static/media/avatar.webp": "/portfolio-jray-v2/static/media/avatar.58795344387f1cab7978.webp",
     "static/media/portjerry.png": "/portfolio-jray-v2/static/media/portjerry.49a4f097657f69d569be.png",
@@ -19,11 +19,11 @@
     "index.html": "/portfolio-jray-v2/index.html",
     "static/media/css.svg": "/portfolio-jray-v2/static/media/css.26ce3d63076e4689194a2ce07ecdc844.svg",
     "static/media/html.svg": "/portfolio-jray-v2/static/media/html.2e5fe13fab3cf48c47ff031fbd21c829.svg",
-    "main.d2bc9c49.css.map": "/portfolio-jray-v2/static/css/main.d2bc9c49.css.map",
+    "main.6b92a361.css.map": "/portfolio-jray-v2/static/css/main.6b92a361.css.map",
     "main.ec2ceaf3.js.map": "/portfolio-jray-v2/static/js/main.ec2ceaf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2bc9c49.css",
+    "static/css/main.6b92a361.css",
     "static/js/main.ec2ceaf3.js"
   ]
 }
