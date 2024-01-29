@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portfolio-jray-v2/static/css/main.3143d8ae.css",
-    "main.js": "/portfolio-jray-v2/static/js/main.7a5b91a3.js",
-    "static/media/avatar.webp": "/portfolio-jray-v2/static/media/avatar.50e5078bd3d8c79adc7c.webp",
+    "main.css": "/portfolio-jray-v2/static/css/main.c22216d9.css",
+    "main.js": "/portfolio-jray-v2/static/js/main.ec2ceaf3.js",
+    "static/media/avatar.webp": "/portfolio-jray-v2/static/media/avatar.58795344387f1cab7978.webp",
     "static/media/portjerry.png": "/portfolio-jray-v2/static/media/portjerry.49a4f097657f69d569be.png",
     "static/media/Jerry-Cv.pdf": "/portfolio-jray-v2/static/media/Jerry-Cv.754dd8f908f74226b0c6.pdf",
     "static/media/rekamdevice.png": "/portfolio-jray-v2/static/media/rekamdevice.cf29807d331de10b742a.png",
-    "static/media/jerry.jpeg": "/portfolio-jray-v2/static/media/jerry.fda6ca089c8e702a99bd.jpeg",
+    "static/media/jerry.jpeg": "/portfolio-jray-v2/static/media/jerry.96c61eae374e12a8051f.jpeg",
     "static/media/pmn.png": "/portfolio-jray-v2/static/media/pmn.de5313bb90217c304044.png",
     "static/media/pustaka.png": "/portfolio-jray-v2/static/media/pustaka.75c71ec6112d2400d022.png",
     "static/media/bankdata.png": "/portfolio-jray-v2/static/media/bankdata.b2d08947891d3380bb34.png",
@@ -19,11 +19,11 @@
     "index.html": "/portfolio-jray-v2/index.html",
     "static/media/css.svg": "/portfolio-jray-v2/static/media/css.26ce3d63076e4689194a2ce07ecdc844.svg",
     "static/media/html.svg": "/portfolio-jray-v2/static/media/html.2e5fe13fab3cf48c47ff031fbd21c829.svg",
-    "main.3143d8ae.css.map": "/portfolio-jray-v2/static/css/main.3143d8ae.css.map",
-    "main.7a5b91a3.js.map": "/portfolio-jray-v2/static/js/main.7a5b91a3.js.map"
+    "main.c22216d9.css.map": "/portfolio-jray-v2/static/css/main.c22216d9.css.map",
+    "main.ec2ceaf3.js.map": "/portfolio-jray-v2/static/js/main.ec2ceaf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.3143d8ae.css",
-    "static/js/main.7a5b91a3.js"
+    "static/css/main.c22216d9.css",
+    "static/js/main.ec2ceaf3.js"
   ]
 }
